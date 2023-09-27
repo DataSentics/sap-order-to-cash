@@ -1,0 +1,6 @@
+name: sap-order-to-cash
+channels:
+  - defaults
+dependencies:
+  - python=3.10.6
+  - pip

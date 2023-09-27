@@ -1,0 +1,33 @@
+version: 1
+
+sources:
+  - name: source_db
+    description: "Database provided by databricks"
+    database: sap_s4
+    schema: parsed
+    tables:
+      - name: tcurx
+      - name: kna1
+      - name: adrc
+      - name: t005
+      - name: t005t
+      - name: tspa
+      - name: tspat
+      - name: tvtw
+      - name: tvtwt
+      - name: tvko
+      - name: tvkot
+      - name: t001
+      - name: tvlst
+      - name: tvfst
+      - name: mara
+      - name: makt
+      - name: prcd_elements
+      - name: vbrk
+      - name: vbrp
+      - name: lips
+      - name: likp
+      - name: vbap
+      - name: vbep
+      - name: vbpa
+      - name: vbak
