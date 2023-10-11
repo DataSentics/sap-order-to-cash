@@ -1,7 +1,7 @@
 sap-order-to-cash:
   outputs:
     dev:
-      catalog: dbt_test
+      catalog: sap_order_to_cash
       host: adb-540853645307037.17.azuredatabricks.net
       http_path: /sql/1.0/warehouses/5d55c72f37174cec
       schema: default

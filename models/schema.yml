@@ -2,32 +2,57 @@ version: 1
 
 sources:
   - name: source_db
-    description: "Database provided by databricks"
+    description: "Databricks database with ingested SAP tables."
     database: sap_s4
     schema: parsed
     tables:
       - name: tcurx
+        description: "Decimal Places in Currencies"
       - name: kna1
+        description: "General Data in Customer Master"
       - name: adrc
+        description: "Addresses (Business Address Services)"
       - name: t005
+        description: "Countries"
       - name: t005t
+        description: "Country Names"
       - name: tspa
+        description: "Organizational Unit: Sales Divisions"
       - name: tspat
+        description: "Organizational Unit: Sales Divisions: Texts"
       - name: tvtw
+        description: "Organizational Unit: Distribution Channels"
       - name: tvtwt
+        description: "Organizational Unit: Distribution Channels: Texts"
       - name: tvko
+        description: "Organizational Unit: Sales Organizations"
       - name: tvkot
+        description: "Organizational Unit: Sales Organizations: Texts"
       - name: t001
+        description: "Company Codes"
       - name: tvlst
+        description: "Deliveries: Blocking Reasons/Scope: Texts"
       - name: tvfst
+        description: "Billing : Blocking Reason Texts"
       - name: mara
+        description: "General Material Data"
       - name: makt
+        description: "Material Descriptions"
       - name: prcd_elements
+        description: "Pricing Elements"
       - name: vbrk
+        description: "Billing Document: Header Data"
       - name: vbrp
+        description: "Billing Document: Item Data"
       - name: lips
+        description: "SD document: Delivery: Item data"
       - name: likp
+        description: "SD Document: Delivery Header Data"
       - name: vbap
+        description: "Sales Document: Item Data"
       - name: vbep
+        description: "Sales Document: Schedule Line Data"
       - name: vbpa
+        description: "Sales Document: Partner"
       - name: vbak
+        description: "Sales Document: Header Data"
