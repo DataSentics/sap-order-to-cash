@@ -1,11 +1,11 @@
 {% docs __overview__ %}
 # Introduction
 This project provides predefined data analytics content for selected SAP financial insights. Includes:
-* Billing and pricing
-* Order details
-* Order fulfillment
-* Order status
-* Sales performance
+* Billing and pricing ([example dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGYzOWI2OTktNzU0Mi00Zjk4LThkOWYtZmEyNTJiN2RlZmY3IiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9))
+* Order details ([example dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjBkMTFjYjYtZmE2Ni00ZDA1LWJiZWEtMmE1NmRhZmMxY2QzIiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9))
+* Order fulfillment ([example dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjk2MjIwZWEtZjVhNy00YThhLWJiZjgtNzQ1OTM1NDBlOTcxIiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9))
+* Order status ([example dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTkzNDc1ODgtNGYxZC00MjFhLWI3MTItMTQwOTUwZThmYTAxIiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9))
+* Sales performance ([example dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzBhMTE5NTEtZTlhNi00YTRjLTgyMGUtMjU4OWQwZmVmNTM1IiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9))
 
 Using dbt, it transforms all the necessary SAP tables into the ordertocash table, which is used to create reports in Microsoft Power BI. Dbt is connected to Databricks where all source and target tables are stored.
 
