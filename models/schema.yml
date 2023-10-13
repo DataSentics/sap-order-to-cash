@@ -56,3 +56,7 @@ sources:
         description: "Sales Document: Partner"
       - name: vbak
         description: "Sales Document: Header Data"
+
+models:
+  - name: ordertocash
+    description: "Data relating to the sales and delivery process, including information on the quantity delivered, net price, delivery and billing dates, and overall delivery status. It also includes details on the customer, material, and billing information."
