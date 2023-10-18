@@ -242,4 +242,4 @@ with order_to_cash AS (
         AND TVFST.LanguageKey_SPRAS = MaterialsMD.Language_SPRAS
 )
 
-SeLECT * FROM order_to_cash
+SELECT * FROM order_to_cash

@@ -13,10 +13,6 @@
 -- See the License for the specific language governing permissions and
 -- limitations under the License.
 
-{{ config(
-    pre_hook=[create_date_dim_table()]
-) }}
-
 with deliveries AS (
     SELECT
         LIKP.MANDT AS Client_MANDT,

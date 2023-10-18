@@ -60,3 +60,5 @@ sources:
 models:
   - name: ordertocash
     description: "Data relating to the sales and delivery process, including information on the quantity delivered, net price, delivery and billing dates, and overall delivery status. It also includes details on the customer, material, and billing information."
+  - name: calendar_date_dim
+    description: "Dates and their corresponding calendar attributes."
