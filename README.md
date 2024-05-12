@@ -4,11 +4,26 @@ This repository is a demonstration of the SAP Order to Cash module of our [full 
 
 ## Pre-built PowerBI reports
 
-* [Order fulfillment](https://app.powerbi.com/view?r=eyJrIjoiYjk2MjIwZWEtZjVhNy00YThhLWJiZjgtNzQ1OTM1NDBlOTcxIiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9)
-* [Order status](https://app.powerbi.com/view?r=eyJrIjoiOTkzNDc1ODgtNGYxZC00MjFhLWI3MTItMTQwOTUwZThmYTAxIiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9)
-* [Order details](https://app.powerbi.com/view?r=eyJrIjoiZjBkMTFjYjYtZmE2Ni00ZDA1LWJiZWEtMmE1NmRhZmMxY2QzIiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9)
-* [Sales performance](https://app.powerbi.com/view?r=eyJrIjoiNzBhMTE5NTEtZTlhNi00YTRjLTgyMGUtMjU4OWQwZmVmNTM1IiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9)
-* [Billing and pricing](https://app.powerbi.com/view?r=eyJrIjoiNGYzOWI2OTktNzU0Mi00Zjk4LThkOWYtZmEyNTJiN2RlZmY3IiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9)
+### Sales Performance
+
+* [Avg Sales Customers & Products](https://app.fabric.microsoft.com/view?r=eyJrIjoiNzBhMTE5NTEtZTlhNi00YTRjLTgyMGUtMjU4OWQwZmVmNTM1IiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9&pageName=ReportSection40434213839b55d73299)
+* [Sales Performance 1](https://app.fabric.microsoft.com/view?r=eyJrIjoiNzBhMTE5NTEtZTlhNi00YTRjLTgyMGUtMjU4OWQwZmVmNTM1IiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9&pageName=ReportSection)
+* [Sales Performance 2](https://app.fabric.microsoft.com/view?r=eyJrIjoiNzBhMTE5NTEtZTlhNi00YTRjLTgyMGUtMjU4OWQwZmVmNTM1IiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9&pageName=ReportSection5057dc91035ccb3ae0c4)
+
+### Order Fulfillment
+
+* [Fulfillment in Percentages](https://app.fabric.microsoft.com/view?r=eyJrIjoiYjk2MjIwZWEtZjVhNy00YThhLWJiZjgtNzQ1OTM1NDBlOTcxIiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9&pageName=ReportSection)
+* [Order to Delivery Cycle Time](https://app.fabric.microsoft.com/view?r=eyJrIjoiYjk2MjIwZWEtZjVhNy00YThhLWJiZjgtNzQ1OTM1NDBlOTcxIiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9&pageName=ReportSection967ba4b26a08b0552ab8)
+
+### Billing and Pricing
+
+* [Price Adjustments based on Customer](https://app.fabric.microsoft.com/view?r=eyJrIjoiNGYzOWI2OTktNzU0Mi00Zjk4LThkOWYtZmEyNTJiN2RlZmY3IiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9&pageName=ReportSection)
+* [Price Adjustments based on Product](https://app.fabric.microsoft.com/view?r=eyJrIjoiNGYzOWI2OTktNzU0Mi00Zjk4LThkOWYtZmEyNTJiN2RlZmY3IiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9&pageName=ReportSectionaae184c0cc105036697c)
+
+### Order Information
+
+* [Order Status](https://app.powerbi.com/view?r=eyJrIjoiOTkzNDc1ODgtNGYxZC00MjFhLWI3MTItMTQwOTUwZThmYTAxIiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9)
+* [Order Details](https://app.powerbi.com/view?r=eyJrIjoiZjBkMTFjYjYtZmE2Ni00ZDA1LWJiZWEtMmE1NmRhZmMxY2QzIiwidCI6IjU4NTEyN2FhLTg2OTEtNGYyNS05Nzc3LThjYjc4Y2NmMGQ5MSIsImMiOjh9)
 
 ## Documentation
 
