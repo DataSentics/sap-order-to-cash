@@ -2,4 +2,5 @@ target/
 logs/
 .venv/
 .user.yml
+.history/
 dbt_packages/
